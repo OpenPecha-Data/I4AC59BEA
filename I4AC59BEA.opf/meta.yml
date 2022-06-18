@@ -1,0 +1,38 @@
+id: I4AC59BEA
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:22:23.193665'
+last_modified: '2022-06-19T04:22:23.193678'
+parser: null
+source_metadata:
+  title: History of the Abbots of Ngor E waṃ chos ldan; Lamdre Tshogshe, vol. ya,
+    title no. 1
+  author: སངས་རྒྱས་ཕུན་ཚོགས།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-09-11);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/588
+  bases:
+    d465:
+      title: History of the Abbots of Ngor E waṃ chos ldan; Lamdre Tshogshe, vol.
+        ya, title no. 1
+      order: 1
+      base_file: d465.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
